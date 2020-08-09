@@ -1,0 +1,323 @@
+local place = game.PlaceId
+
+---Intro if you have it
+
+if place == 3923754109 then -- GAME LINK
+print("Loaded GUI")
+loadstring(game:HttpGet("https://raw.githubusercontent.com/foodisgood-glitch/bsoleil31FR/master/Backflip-Simulator%20Gui.txt"))()
+else
+if place == 3025124489 then -- GAME LINK
+print("Loaded GUI")
+loadstring(game:HttpGet("https://raw.githubusercontent.com/foodisgood-glitch/bsoleil31FR/master/Banning%20Simulator%20GUI.txt"))()
+else
+if place == 4466798016 then -- GAME LINK
+print("Loaded GUI")
+loadstring(game:HttpGet("https://raw.githubusercontent.com/foodisgood-glitch/bsoleil31FR/master/Blade%20Champions%20Simulator%20gui.txt"))()
+else
+if place == 246487209 then -- GAME LINK
+print("Loaded GUI")
+loadstring(game:HttpGet("https://raw.githubusercontent.com/foodisgood-glitch/bsoleil31FR/master/Boss-Fighting-Simulator.txt"))()
+else
+if place == 4686272305 then -- GAME LINK
+print("Loaded GUI")
+loadstring(game:HttpGet("https://raw.githubusercontent.com/foodisgood-glitch/bsoleil31FR/master/Bulle-Musculation-Simulator%20GUI.txt"))()
+else
+if place == 3011348948 then -- GAME LINK
+print("Loaded GUI")
+loadstring(game:HttpGet("https://raw.githubusercontent.com/foodisgood-glitch/bsoleil31FR/master/Cake%20Delivery%20Simulator%20gui.txt"))()
+else
+if place == 3963432370 then -- GAME LINK
+print("Loaded GUI")
+loadstring(game:HttpGet("https://raw.githubusercontent.com/foodisgood-glitch/bsoleil31FR/master/Candy%20Collecting%20Simulator%20GUI.txt"))()
+else
+if place == 5471239851 then -- GAME LINK
+print("Loaded GUI")
+loadstring(game:HttpGet("https://raw.githubusercontent.com/foodisgood-glitch/bsoleil31FR/master/Clicker%20Realms%20GUI.txt"))()
+else
+if place == 4859936288 then -- GAME LINK
+print("Loaded GUI")
+loadstring(game:HttpGet("https://raw.githubusercontent.com/foodisgood-glitch/bsoleil31FR/master/Clicker_Story_GUI.txt"))()
+else
+if place == 5373489830 then -- GAME LINK
+print("Loaded GUI")
+loadstring(game:HttpGet("https://raw.githubusercontent.com/foodisgood-glitch/bsoleil31FR/master/Clicking%20Champions%20GUI.txt"))()
+else
+if place == 3462993756 then -- GAME LINK
+print("Loaded GUI")
+loadstring(game:HttpGet("https://raw.githubusercontent.com/foodisgood-glitch/bsoleil31FR/master/Clicking-Simulator%20gui.txt"))()
+else
+if place == 509329379 then -- GAME LINK
+print("Loaded GUI")
+loadstring(game:HttpGet("https://raw.githubusercontent.com/foodisgood-glitch/bsoleil31FR/master/Coin%20Collection%20Simulator%20gui.txt"))()
+else
+if place == 5266363557 then -- GAME LINK
+print("Loaded GUI")
+loadstring(game:HttpGet("https://raw.githubusercontent.com/foodisgood-glitch/bsoleil31FR/master/Combo_Clickers_V8.txt"))()
+else
+if place == 2953670286 then -- GAME LINK
+print("Loaded GUI")
+loadstring(game:HttpGet("https://raw.githubusercontent.com/foodisgood-glitch/bsoleil31FR/master/Cookie%20Simulator%20GUI.txt"))()
+else
+if place == 3290249490 then -- GAME LINK
+print("Loaded GUI")
+loadstring(game:HttpGet("https://raw.githubusercontent.com/foodisgood-glitch/bsoleil31FR/master/Cotton%20Candy%20Simulator%20GUI.txt"))()
+else
+if place == 3984040937 then -- GAME LINK
+print("Loaded GUI")
+loadstring(game:HttpGet("https://raw.githubusercontent.com/foodisgood-glitch/bsoleil31FR/master/Crushing%20Simulator%20GUI.txt"))()
+else
+if place == 3788547128 then -- GAME LINK
+print("Loaded GUI")
+loadstring(game:HttpGet("https://raw.githubusercontent.com/foodisgood-glitch/bsoleil31FR/master/Dr%20Seuss%20GUI.txt"))()
+else
+if place == 5087932411 then -- GAME LINK
+print("Loaded GUI")
+loadstring(game:HttpGet("https://raw.githubusercontent.com/foodisgood-glitch/bsoleil31FR/master/Duck%20Sim.txt"))()
+else
+if place == 5158017550 then -- GAME LINK
+print("Loaded GUI")
+loadstring(game:HttpGet("https://raw.githubusercontent.com/foodisgood-glitch/bsoleil31FR/master/Eating%20simulator%202%20gui.txt"))()
+else
+if place == 4571493251 then -- GAME LINK
+print("Loaded GUI")
+loadstring(game:HttpGet("https://raw.githubusercontent.com/foodisgood-glitch/bsoleil31FR/master/Egg%20Simulator%20X%20GUI.txt"))()
+else
+if place == 4613228940 then -- GAME LINK
+print("Loaded GUI")
+loadstring(game:HttpGet("https://raw.githubusercontent.com/foodisgood-glitch/bsoleil31FR/master/Fairy%20legend%20GUI.txt"))()
+else
+if place == 3661241323 then -- GAME LINK
+print("Loaded GUI")
+loadstring(game:HttpGet("https://raw.githubusercontent.com/foodisgood-glitch/bsoleil31FR/master/Fish%20Mania%20%20GUI.txt"))()
+else
+if place == 4794548479 then -- GAME LINK
+print("Loaded GUI")
+loadstring(game:HttpGet("https://raw.githubusercontent.com/foodisgood-glitch/bsoleil31FR/master/Follower%20Simulator%20GUI.txt"))()
+else
+if place == 4958515691 then -- GAME LINK
+print("Loaded GUI")
+loadstring(game:HttpGet("https://raw.githubusercontent.com/foodisgood-glitch/bsoleil31FR/master/Gladiator%20Simulator%20GUI.txt"))()
+else
+if place == 3312021728 then -- GAME LINK
+print("Loaded GUI")
+loadstring(game:HttpGet("https://raw.githubusercontent.com/foodisgood-glitch/bsoleil31FR/master/Coin%20Simulator%202%20GUI%24.txt"))()
+else
+if place == 1378712700 then -- GAME LINK
+print("Loaded GUI")
+loadstring(game:HttpGet("https://raw.githubusercontent.com/foodisgood-glitch/bsoleil31FR/master/Gorilla-Simulator-2.txt"))()
+else
+if place == 2110185000 then -- GAME LINK
+print("Loaded GUI")
+loadstring(game:HttpGet("https://raw.githubusercontent.com/foodisgood-glitch/bsoleil31FR/master/Harvesting%20Simulator%20GUI.txt"))()
+else
+if place == 4900725627 then -- GAME LINK
+print("Loaded GUI")
+loadstring(game:HttpGet("https://raw.githubusercontent.com/foodisgood-glitch/bsoleil31FR/master/Jumping%20Simulator%20GUI.txt"))()
+else
+if place == 4829409972 then -- GAME LINK
+print("Loaded GUI")
+loadstring(game:HttpGet("https://raw.githubusercontent.com/foodisgood-glitch/bsoleil31FR/master/Laptop%20Simulator%20GUI.txt"))()
+else
+if place == 5515646116 then -- GAME LINK
+print("Loaded GUI")
+loadstring(game:HttpGet("https://raw.githubusercontent.com/foodisgood-glitch/bsoleil31FR/master/Level%20Up%20Simulator%20GUI.txt"))()
+else
+if place == 662417684 then -- GAME LINK
+print("Loaded GUI")
+loadstring(game:HttpGet("https://raw.githubusercontent.com/foodisgood-glitch/bsoleil31FR/master/Lucky%20Blocks%20Battlegrounds%20GUI.txt"))()
+else
+if place == 3859039810 then -- GAME LINK
+print("Loaded GUI")
+loadstring(game:HttpGet("https://raw.githubusercontent.com/foodisgood-glitch/bsoleil31FR/master/Munching_Master_GUI%20AIDEZ%20par%20masterkyllian.txt"))()
+else
+if place == 4699158002 then -- GAME LINK
+print("Loaded GUI")
+loadstring(game:HttpGet("https://raw.githubusercontent.com/foodisgood-glitch/bsoleil31FR/master/Mythical%20Legends%20gui.txt"))()
+else
+if place == 5265888165 then -- GAME LINK
+print("Loaded GUI")
+loadstring(game:HttpGet("https://raw.githubusercontent.com/foodisgood-glitch/bsoleil31FR/master/Ninja%20Clicker%20Simulator%20GUI.txt"))()
+else
+if place == 5065520928 then -- GAME LINK
+print("Loaded GUI")
+loadstring(game:HttpGet("https://raw.githubusercontent.com/foodisgood-glitch/bsoleil31FR/master/Pet%20hatching%20Simulator%204%20GUI.txt"))()
+else
+if place == 4946394167 then -- GAME LINK
+print("Loaded GUI")
+loadstring(game:HttpGet("https://raw.githubusercontent.com/foodisgood-glitch/bsoleil31FR/master/Pirate%20legends%20gui%20UPDATED.txt"))()
+else
+if place == 2692178444 then -- GAME LINK
+print("Loaded GUI")
+loadstring(game:HttpGet("https://raw.githubusercontent.com/foodisgood-glitch/bsoleil31FR/master/Planet%20Lifting%20SImulator.txt"))()
+else
+if place == 4369222337 then -- GAME LINK
+print("Loaded GUI")
+loadstring(game:HttpGet("https://raw.githubusercontent.com/foodisgood-glitch/bsoleil31FR/master/Potions%20Simulator%20GUI.txt"))()
+else
+if place == 3182399976 then -- GAME LINK
+print("Loaded GUI")
+loadstring(game:HttpGet("https://raw.githubusercontent.com/foodisgood-glitch/bsoleil31FR/master/Running%20Simulator%20GUI.txt"))()
+else
+if place == 2616498302 then -- GAME LINK
+print("Loaded GUI")
+loadstring(game:HttpGet("https://raw.githubusercontent.com/foodisgood-glitch/bsoleil31FR/master/Slaying%20Simulator%20GUI.txt"))()
+else
+if place == 4489411976 then -- GAME LINK
+print("Loaded GUI")
+loadstring(game:HttpGet("https://raw.githubusercontent.com/foodisgood-glitch/bsoleil31FR/master/Spellblade%20Legends%20GUI.txt"))()
+else
+if place == 4546789281 then -- GAME LINK
+print("Loaded GUI")
+loadstring(game:HttpGet("https://raw.githubusercontent.com/foodisgood-glitch/bsoleil31FR/master/Sprinting%20Heroes%20GUI.txt"))()
+else
+if place == 2619187362 then -- GAME LINK
+print("Loaded GUI")
+loadstring(game:HttpGet("https://raw.githubusercontent.com/foodisgood-glitch/bsoleil31FR/master/Super%20Power%20Fighting%20Simulator%20GUI.txt"))()
+else
+if place == 5123763375 then -- GAME LINK
+print("Loaded GUI")
+loadstring(game:HttpGet("https://raw.githubusercontent.com/foodisgood-glitch/bsoleil31FR/master/Sword%20Simulator%203%20GUI.txt"))()
+else
+if place == 5186756186 then -- GAME LINK
+print("Loaded GUI")
+loadstring(game:HttpGet("https://raw.githubusercontent.com/foodisgood-glitch/bsoleil31FR/master/Sword%20Simulator.txt"))()
+else
+if place == 5380617411 then -- GAME LINK
+print("Loaded GUI")
+loadstring(game:HttpGet("https://raw.githubusercontent.com/foodisgood-glitch/bsoleil31FR/master/Tapping%20Champions%20gui.txt"))()
+else
+if place == 5281022480 then -- GAME LINK
+print("Loaded GUI")
+loadstring(game:HttpGet("https://raw.githubusercontent.com/foodisgood-glitch/bsoleil31FR/master/Tapping%20Legends%20GUI.txt"))()
+else
+if place == 1122519450 then -- GAME LINK
+print("Loaded GUI")
+loadstring(game:HttpGet("https://raw.githubusercontent.com/foodisgood-glitch/bsoleil31FR/master/Titan_Simulator_GUI%20AIDEZ%20par%20masterkyllian.txt"))()
+else
+if place == 2472820296 then -- GAME LINK
+print("Loaded GUI")
+loadstring(game:HttpGet("https://raw.githubusercontent.com/foodisgood-glitch/bsoleil31FR/master/Ultimate-Lifting-Simulator.txt"))()
+else
+if place == 4330397559 then -- GAME LINK
+print("Loaded GUI")
+loadstring(game:HttpGet("https://raw.githubusercontent.com/foodisgood-glitch/bsoleil31FR/master/Viking%20Simulator%20GUI.txt"))()
+else
+if place == 4815306039 then -- GAME LINK
+print("Loaded GUI")
+loadstring(game:HttpGet("https://raw.githubusercontent.com/foodisgood-glitch/bsoleil31FR/master/Whacking%20Simulator%20GUI.txt"))()
+else
+if place == 3877211022 then -- GAME LINK
+print("Loaded GUI")
+loadstring(game:HttpGet("https://raw.githubusercontent.com/foodisgood-glitch/bsoleil31FR/master/Yummy%20Simulatog%20GUI.txt"))()
+else
+if place == 5253409107 then -- GAME LINK
+print("Loaded GUI")
+loadstring(game:HttpGet("https://raw.githubusercontent.com/foodisgood-glitch/bsoleil31FR/master/brawling%20simulator%20gui.txt"))()
+else
+if place == 2791730398 then -- GAME LINK
+print("Loaded GUI")
+loadstring(game:HttpGet("https://raw.githubusercontent.com/foodisgood-glitch/bsoleil31FR/master/duck%20simulator%20gui.txt"))()
+else
+if place == 5016053113 then -- GAME LINK
+print("Loaded GUI")
+loadstring(game:HttpGet("https://raw.githubusercontent.com/foodisgood-glitch/bsoleil31FR/master/energy%20legends.txt"))()
+else
+if place == 2929627388 then -- GAME LINK
+print("Loaded GUI")
+loadstring(game:HttpGet("https://raw.githubusercontent.com/foodisgood-glitch/bsoleil31FR/master/killing%20simulator%20gui.txt"))()
+else
+if place == 3135436676 then -- GAME LINK
+print("Loaded GUI")
+loadstring(game:HttpGet("https://raw.githubusercontent.com/foodisgood-glitch/bsoleil31FR/master/legend%20hunt%20gui.txt"))()
+else
+if place == 4727475305 then -- GAME LINK
+print("Loaded GUI")
+loadstring(game:HttpGet("https://raw.githubusercontent.com/foodisgood-glitch/bsoleil31FR/master/ligtsaber%20simulator%20gui.txt"))()
+else
+if place == 4452743080 then -- GAME LINK
+print("Loaded GUI")
+loadstring(game:HttpGet("https://raw.githubusercontent.com/foodisgood-glitch/bsoleil31FR/master/lumber%20simulator%20gui.txt"))()
+else
+if place == 4807709647 then -- GAME LINK
+print("Loaded GUI")
+loadstring(game:HttpGet("https://raw.githubusercontent.com/foodisgood-glitch/bsoleil31FR/master/melee%20champions%20INF%20money.txt"))()
+else
+if place == 4505230637 then -- GAME LINK
+print("Loaded GUI")
+loadstring(game:HttpGet("https://raw.githubusercontent.com/foodisgood-glitch/bsoleil31FR/master/melee%20simulator%20gui.txt"))()
+else
+if place == 3458440153 then -- GAME LINK
+print("Loaded GUI")
+loadstring(game:HttpGet("https://raw.githubusercontent.com/foodisgood-glitch/bsoleil31FR/master/sword%20legends%20gui%20other%20game.txt"))()
+else
+if place == 4408587791 then -- GAME LINK
+print("Loaded GUI")
+loadstring(game:HttpGet("https://raw.githubusercontent.com/foodisgood-glitch/bsoleil31FR/master/sword%20legends%20gui.txt"))()
+else
+if place == 2683386222 then -- GAME LINK
+print("Loaded GUI")
+loadstring(game:HttpGet("https://raw.githubusercontent.com/foodisgood-glitch/bsoleil31FR/master/toy%20simulator%20GUI.txt"))()
+end
+end
+end
+end
+end
+end
+end
+end
+end
+end
+end
+end
+end
+end
+end
+end
+end
+end
+end
+end
+end
+end
+end
+end
+end
+end
+end
+end
+end
+end
+end
+end
+end
+end
+end
+end
+end
+end
+end
+end
+end
+end
+end
+end
+end
+end
+end
+end
+end
+end
+end
+end
+end
+end
+end
+end
+end
+end
+end
+end
+end
+end
+end
+end
