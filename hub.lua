@@ -13,6 +13,11 @@ else
 if place == 5416606558 then -- https://www.roblox.com/games/5416606558/NEW-CLICKING-LEGENDS
 print("Loaded clicking legends thing GUI")
 loadstring(game:HttpGet("https://raw.githubusercontent.com/foodisgood-glitch/scripts/master/clicking%20legends%20script.lua"))()
+else
+if place == 5604707810 then -- https://www.roblox.com/games/5604707810/BOSS-Tree-Harvest-Simulator
+print("Loaded Tree Harvest Simulator thing GUI")
+loadstring(game:HttpGet("https://raw.githubusercontent.com/foodisgood-glitch/scripts/master/Tree%20Harvest%20Simulator"))()
+end
 end
 end
 end
