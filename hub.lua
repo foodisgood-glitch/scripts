@@ -19,8 +19,13 @@ print("Loaded Tree Harvest Simulator thing GUI")
 loadstring(game:HttpGet("https://raw.githubusercontent.com/foodisgood-glitch/scripts/master/Tree%20Harvest%20Simulator"))()
 else
 if place == 5641449689 then -- https://www.roblox.com/games/5641449689/
-print("Loaded Clicking 20Fantasy thing GUI")
-loadstring(game:HttpGet("https://raw.githubusercontent.com/foodisgood-glitch/scripts/master/Clicking%20Fantasy%20script.lua"))()
+print("Loaded Clicking Fantasy thing GUI")
+loadstring(game:HttpGet("https://raw.githubusercontent.com/foodisgood-glitch/scripts/master/Clicking%20Fantasy%20script.lua"))() 
+else
+if place == 5490351219 then -- https://www.roblox.com/games/5490351219/
+print("Loaded Clicker Madness thing GUI")
+loadstring(game:HttpGet("https://raw.githubusercontent.com/foodisgood-glitch/scripts/master/Clicker%20Madness%20script.lua"))() 
+end
 end
 end
 end
