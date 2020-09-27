@@ -1,4 +1,4 @@
-local Finity = loadstring(game:HttpGet("http://finity.vip/scripts/finity_lib.lua"))()
+local Finity = loadstring(game:HttpGet("https://pastebin.com/raw/xpT46ucU"))()
 
 local FinityWindow = Finity.new(true)
 FinityWindow.ChangeToggleKey(Enum.KeyCode.P)
