@@ -25,6 +25,11 @@ else
 if place == 5490351219 then -- https://www.roblox.com/games/5490351219/
 print("Loaded Clicker Madness thing GUI")
 loadstring(game:HttpGet("https://raw.githubusercontent.com/foodisgood-glitch/scripts/master/Clicker%20Madness%20script.lua"))() 
+else
+if place == 292439477 then -- https://www.roblox.com/games/5490351219/
+print("Loaded Phantom Forces thing GUI")
+loadstring(game:HttpGet("https://raw.githubusercontent.com/foodisgood-glitch/scripts/master/Phantom%20Forces.lua"))() 
+end
 end
 end
 end
