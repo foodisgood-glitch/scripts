@@ -20,12 +20,19 @@ section1:addToggle("Attack and Sell", nil, function(value)
     _G.click = value
     while wait() and _G.click do
         game:GetService("ReplicatedStorage").Functions.Attack:InvokeServer()
+        game:GetService("ReplicatedStorage").Events.Sell:FireServer("Pirates Cove")
         game:GetService("ReplicatedStorage").Events.Sell:FireServer("Candy Forest")
         game:GetService("ReplicatedStorage").Events.Sell:FireServer("Scorching Desert")
         game:GetService("ReplicatedStorage").Events.Sell:FireServer("Forest Of Beginnings")
     end
 end)
 
+section1:addButton("Claim all Chest", function()
+    game:GetService("ReplicatedStorage").Functions.ClaimChest:InvokeServer("PirateChest")
+    game:GetService("ReplicatedStorage").Functions.ClaimChest:InvokeServer("StarterChest")
+    game:GetService("ReplicatedStorage").Functions.ClaimChest:InvokeServer("DesertChest")
+    game:GetService("ReplicatedStorage").Functions.ClaimChest:InvokeServer("CandyChest")
+end)
 
 if focusLost then
 venyx:Notify("Title", value)
@@ -36,7 +43,7 @@ section2:addToggle("Auto Egg", nil, function(value)
 end)
 
 
-section2:addDropdown("Dropdown", {"Starter Egg", "Epic Egg", "Sand Egg", "Desert Egg", "Sweet Egg", "Candy Egg"}, function(text)
+section2:addDropdown("Dropdown", {"Starter Egg", "Epic Egg", "Sand Egg", "Desert Egg", "Sweet Egg", "Candy Egg", "Pirate Egg", "Gold Egg"}, function(text)
 while wait() and _G.Egg do
         game:GetService("ReplicatedStorage").Functions.Hatch:InvokeServer(text)
     end
@@ -61,3 +68,11 @@ end
 
 -- load
 venyx:SelectPage(venyx.pages[1], true)
+
+
+local Virtual = game:service'VirtualUser'
+game:service'Players'.LocalPlayer.Idled:connect(function()
+    Virtual:CaptureController()
+    Virtual:ClickButton2(Vector2.new())
+    wait(2)
+end)
