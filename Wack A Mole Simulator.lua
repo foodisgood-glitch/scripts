@@ -20,6 +20,7 @@ section1:addToggle("Attack and Sell", nil, function(value)
     _G.click = value
     while wait() and _G.click do
         game:GetService("ReplicatedStorage").Functions.Attack:InvokeServer()
+        game:GetService("ReplicatedStorage").Events.Sell:FireServer("Candy Forest")
         game:GetService("ReplicatedStorage").Events.Sell:FireServer("Scorching Desert")
         game:GetService("ReplicatedStorage").Events.Sell:FireServer("Forest Of Beginnings")
     end
@@ -35,19 +36,18 @@ section2:addToggle("Auto Egg", nil, function(value)
 end)
 
 
-section2:addDropdown("Dropdown", {"Starter Egg", "Epic Egg", "Sand Egg", "Desert Egg"}, function(text)
+section2:addDropdown("Dropdown", {"Starter Egg", "Epic Egg", "Sand Egg", "Desert Egg", "Sweet Egg", "Candy Egg"}, function(text)
 while wait() and _G.Egg do
         game:GetService("ReplicatedStorage").Functions.Hatch:InvokeServer(text)
     end
 end)
 
 
-
-section2:addSlider("speed", 16, 0, 100, function(value)
-game.Workspace.LocalPlayer.Humanoid.WalkSpeed = value
+section2:addSlider("speed", 16, 0, 200, function(value)
+    game.Players.LocalPlayer.Character.Humanoid.WalkSpeed = value
 end)
 
-section2:addButton("Button")
+
 
 -- second page
 local theme = venyx:addPage("Theme", 5012544693)
