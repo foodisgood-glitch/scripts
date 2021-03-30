@@ -43,6 +43,13 @@ section1:addButton("Claim all Chest", function()
     game:GetService("ReplicatedStorage").Functions.ClaimChest:InvokeServer("CandyChest")
 end)
 
+section1:addButton("all Boosts", function()
+    local hi = require(game:GetService("Players").LocalPlayer.PlayerScripts.Client.PlayerData)
+    hi:Get("Boosts")["2x Attack Speed"].seconds = 9e9
+    hi:Get("Boosts")["2x Hatch Speed"].seconds = 9e9
+    hi:Get("Boosts")["2x Luck"].seconds = 9e9
+end)
+
 if focusLost then
 venyx:Notify("Title", value)
 end
