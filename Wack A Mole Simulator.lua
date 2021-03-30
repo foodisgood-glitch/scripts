@@ -27,6 +27,15 @@ section1:addToggle("Attack and Sell", nil, function(value)
     end
 end)
 
+
+section1:addToggle("Rebirth", nil, function(value)
+    _G.Rebirth = value
+    while wait() and _G.Rebirth do
+        game:GetService("ReplicatedStorage").Functions.Rebirth:InvokeServer()
+    end
+end)
+
+
 section1:addButton("Claim all Chest", function()
     game:GetService("ReplicatedStorage").Functions.ClaimChest:InvokeServer("PirateChest")
     game:GetService("ReplicatedStorage").Functions.ClaimChest:InvokeServer("StarterChest")
