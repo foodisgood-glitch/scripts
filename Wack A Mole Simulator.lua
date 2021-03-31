@@ -19,11 +19,13 @@ local section2 = page:addSection("Section 2")
 section1:addToggle("Attack and Sell", nil, function(value)
     _G.click = value
     while wait() and _G.click do
-        game:GetService("ReplicatedStorage").Functions.Attack:InvokeServer()
-        game:GetService("ReplicatedStorage").Events.Sell:FireServer("Pirates Cove")
-        game:GetService("ReplicatedStorage").Events.Sell:FireServer("Candy Forest")
-        game:GetService("ReplicatedStorage").Events.Sell:FireServer("Scorching Desert")
-        game:GetService("ReplicatedStorage").Events.Sell:FireServer("Forest Of Beginnings")
+        for i = 1, 10 do
+            game:GetService("ReplicatedStorage").Functions.Attack:InvokeServer()
+            game:GetService("ReplicatedStorage").Events.Sell:FireServer("Pirates Cove")
+            game:GetService("ReplicatedStorage").Events.Sell:FireServer("Candy Forest")
+            game:GetService("ReplicatedStorage").Events.Sell:FireServer("Scorching Desert")
+            game:GetService("ReplicatedStorage").Events.Sell:FireServer("Forest Of Beginnings")
+        end   
     end
 end)
 
